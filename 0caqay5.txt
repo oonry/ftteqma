@@ -1,9 +1,1 @@
-vless://508fa126-13e1-44ff-af87-849e705b3003@162.159.242.123:443?flow=&encryption=none&security=tls&sni=wufulinmencaiqiwang.tk&type=ws&host=wufulinmencaiqiwang.tk&path=/&headerType=none&alpn=#vless-3-1
-vless://508fa126-13e1-44ff-af87-849e705b3003@172.67.207.209:443?flow=&encryption=none&security=tls&sni=wufulinmencaiqiwang.ml&type=ws&host=wufulinmencaiqiwang.ml&path=/&headerType=none&alpn=#vless-3-2
-vless://508fa126-13e1-44ff-af87-849e705b3003@172.67.132.98:443?flow=&encryption=none&security=tls&sni=qtzrrwwerrtt6yyarteytrdjgw.ga&type=ws&host=qtzrrwwerrtt6yyarteytrdjgw.ga&path=/&headerType=none&alpn=#vless-3-3
-vless://508fa126-13e1-44ff-af87-849e705b3003@172.64.1.156:443?flow=&encryption=none&security=tls&sni=wufulinmencaiqiwang.ga&type=ws&host=wufulinmencaiqiwang.ga&path=/&headerType=none&alpn=#vless-3-4
-
-trojan://508fa126-13e1-44ff-af87-849e705b3003@172.67.181.5:443?flow=&security=tls&sni=wufulinmencaiqiwang.tk&type=ws&host=wufulinmencaiqiwang.tk&path=/trojan&alpn=#trojan-3-1
-trojan://508fa126-13e1-44ff-af87-849e705b3003@162.159.152.60:443?flow=&security=tls&sni=wufulinmencaiqiwang.ml&type=ws&host=wufulinmencaiqiwang.ml&path=/trojan&alpn=#trojan-3-1
-trojan://508fa126-13e1-44ff-af87-849e705b3003@172.67.132.98:443?flow=&security=tls&sni=qtzrrwwerrtt6yyarteytrdjgw.ga&type=ws&host=qtzrrwwerrtt6yyarteytrdjgw.ga&path=/trojan&alpn=#trojan-3-1
-trojan://508fa126-13e1-44ff-af87-849e705b3003@172.67.134.225:443?flow=&security=tls&sni=wufulinmencaiqiwang.ga&type=ws&host=wufulinmencaiqiwang.ga&path=/trojan&alpn=#trojan-3-1
+vless://fb8c8e67-0eff-f524-968c-01b4afe20453@172.64.11.122:443?flow=&encryption=none&security=tls&sni=n5nkji.lknlkoonty.gq&type=ws&host=n5nkji.lknlkoonty.gq&path=/appws&headerType=none&alpn=&fingerprint=#NV-1 
